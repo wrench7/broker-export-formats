@@ -1,0 +1,18 @@
+All Transactions Activity Types
+
+Account Activity for Brokerage -1234 from Current Year
+
+Total:,-1520.37
+
+Activity/Trade Date,Transaction Date,Settlement Date,Activity Type,Description,Symbol,Cusip,Quantity #,Price $,Amount $,Commission,Category,Note
+03/02/26,03/02/26,02/27/26,Option Expired,CALL NVDA   02/27/26   215.000,NVDA,--,6.0,,0.0,0.0,--,--
+02/17/26,02/17/26,02/18/26,Sold Short,CALL NVDA   02/27/26   215.000,NVDA,--,-6.0,1.12,668.97,3.03,--,--
+02/05/26,02/05/26,02/06/26,Sold To Close,PUT  SPXW   02/20/26  6800.000,SPX,--,-2.0,96.68,19333.95,1.03,--,--
+01/20/26,01/20/26,01/21/26,Bought,NVIDIA CORP,NVDA,--,600.0,175.0,-105000.0,0.0,--,--
+01/20/26,01/20/26,01/16/26,Option Assigned,PUT  NVDA   01/16/26   175.000,NVDA,--,6.0,,0.0,0.0,--,--
+01/09/26,01/09/26,01/12/26,Bought To Open,PUT  SPXW   02/20/26  6800.000,SPX,--,2.0,57.07,-11416.05,1.03,--,--
+01/05/26,01/05/26,01/06/26,Sold Short,PUT  NVDA   01/16/26   175.000,NVDA,--,-6.0,2.4,1436.97,3.03,--,--
+12/31/25,12/31/25,,Dividend,KRAFT HEINZ CO COM DIVIDEND REINVESTMENT,KHC,--,0.067,21.837,-1.46,0.0,--,--
+12/30/25,12/30/25,,Online Transfer,TRANSFER FROM XXXXXX1327 REFID:16759318395,--,--,,,1000.0,0.0,--,--
+
+E*TRADE from Morgan Stanley credits and offers may be subject to U.S. withholding taxes and reporting at retail value. Taxes related to these credits and offers are the customer's responsibility.

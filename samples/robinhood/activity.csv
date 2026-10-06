@@ -1,0 +1,14 @@
+"Activity Date","Process Date","Settle Date","Instrument","Description","Trans Code","Quantity","Price","Amount"
+"6/20/2026","6/20/2026","6/23/2026","HAWK","Hawk Holdings
+CUSIP: 000000001","Sell","10","$12.50","$125.00"
+"6/20/2026","6/20/2026","6/20/2026","HAWK","Hawk Holdings
+CUSIP: 000000001","ACATI","10","",""
+"6/6/2026","6/6/2026","6/6/2026","AMZN","Amazon
+CUSIP: 023135106","SPL","1","",""
+"5/15/2026","5/15/2026","5/19/2026","MSFT","Microsoft
+CUSIP: 594918104
+1 MSFT Options Exercised","Buy","100","$400.00","($40,000.00)"
+"5/15/2026","5/15/2026","5/16/2026","MSFT","MSFT 5/15/2026 Call $400.00","OEXCS","1","",""
+"5/1/2026","5/1/2026","5/2/2026","MSFT","MSFT 5/15/2026 Call $400.00","BTO","1","$1.50","($150.00)"
+
+"","","","","","","","","","The data provided is for informational purposes only. Please consult a professional tax service or personal tax advisor if you need instructions on how to calculate cost basis or questions regarding your specific tax situation. Reminder: This data does not include Robinhood Crypto or Robinhood Spending activity."

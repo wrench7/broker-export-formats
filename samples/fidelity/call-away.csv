@@ -1,0 +1,12 @@
+
+
+
+Run Date,Action,Symbol,Description,Type,Price ($),Quantity,Commission ($),Fees ($),Accrued Interest ($),Amount ($),Cash Balance ($),Settlement Date
+07-22-2026,YOU SOLD ASSIGNED CALLS AS OF 07-19-26 TOLL BROS INC (TOL) (Cash),TOL,TOLL BROS INC,Cash,135,-300,0.00,0.08,"",40499.92,40499.92,07-23-2026
+07-22-2026,ASSIGNED as of Jul-19-2026 CALL (TOL) TOLL BROS INC JUL 17 26 $135 (100 SHS) (Cash), -TOL260717C135,CALL (TOL) TOLL BROS INC JUL 17 26 $135 (100 SHS),Cash,"",3,"","","",0.00,0.00,""
+05-19-2026,YOU SOLD OPENING TRANSACTION CALL (TOL) TOLL BROS INC JUL 17 26 $135 (100 SHS) (Cash), -TOL260717C135,CALL (TOL) TOLL BROS INC JUL 17 26 $135 (100 SHS),Cash,0.30,-3,1.95,0.12,"",87.93,0.00,05-20-2026
+04-04-2026,YOU BOUGHT TOLL BROS INC (TOL) (Cash),TOL,TOLL BROS INC,Cash,120,300,"","","",-36000.00,-36000.00,04-07-2026
+
+
+"The data and information in this spreadsheet is provided to you solely for your use and is not for distribution. The spreadsheet is provided for informational purposes only, and is not intended to provide advice, nor should it be construed as an offer to sell, a solicitation of an offer to buy or a recommendation for any security or insurance product by Fidelity or any third party."
+"Date downloaded 08/01/2026 10:00 am"

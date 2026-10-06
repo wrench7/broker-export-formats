@@ -1,0 +1,7 @@
+"HEADER","STFU","CurrencyPrimary","AssetClass","Symbol","Description","Conid","Date","ActivityCode","ActivityDescription","Amount"
+"DATA","STFU","USD","STK","SPY","SPDR S&P 500 ETF TRUST","756733","20250404","SELL","Sell -100 SPDR S&P 500 ETF TRUST ","53000"
+"HEADER","TRNT","CurrencyPrimary","AssetClass","SubCategory","Symbol","Description","UnderlyingSymbol","Conid","Multiplier","Strike","Expiry","Put/Call","DateTime","TradeDate","TransactionType","Quantity","TradePrice","IBCommission","Open/CloseIndicator","Notes/Codes","Buy/Sell","TransactionID","LevelOfDetail"
+"DATA","TRNT","USD","STK","ETF","SPY","SPDR S&P 500 ETF TRUST","SPY","756733","1","","","","20250404;162000","20250404","BookTrade","-100","530","-1.49","O","Ex","SELL","3895227169","EXECUTION"
+"DATA","TRNT","USD","STK","ETF","SPY","SPDR S&P 500 ETF TRUST","SPY","756733","1","","","","20250404;162000","20250404","BookTrade","100","545","0","C","A","BUY","3895252422","EXECUTION"
+"HEADER","CORP","CurrencyPrimary","AssetClass","Symbol","Description","Conid","Report Date","Date/Time","Quantity","Type","ActionID","LevelOfDetail"
+"DATA","CORP","USD","OPT","NFLX  251121P00114000","NFLX(US64110L1061) SPLIT 10 FOR 1 (NFLX  251121P00114000, NFLX 21NOV25 114 P, )","798857364","20251117","20251114;202500","-9","FS","160484717","DETAIL"
