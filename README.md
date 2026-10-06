@@ -1,8 +1,8 @@
 # broker-export-formats
 
-A collection of anonymized trade history files from retail brokers. The kind of CSV or spreadsheet your broker lets you download.
+A collection of anonymized options activity files from retail brokers. The kind of CSV or spreadsheet your broker lets you download.
 
-Every broker writes the same events a little differently (an assignment, a roll, a split). These samples exist so people building importers can see the real layout instead of guessing from docs.
+We want options history, plus the stock rows that come with it (assignment, exercise, the wheel). Every broker writes those events a little differently. These samples exist so people building importers can see the real layout instead of guessing from docs.
 
 ## What to send
 
